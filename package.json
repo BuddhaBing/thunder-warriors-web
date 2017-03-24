@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/treborb/thunder-warriors/issues"
   },
-  "homepage": "https://github.com/treborb/thunder-warriors#readme"
+  "homepage": "https://github.com/treborb/thunder-warriors#readme",
+  "devDependencies": {
+    "node-static": "^0.7.9"
+  }
 }
