@@ -13,6 +13,7 @@
 * [Installation](#install)
 * [Heroku Demo](#demo)
 * [Screenshots](#screenshots)
+* [Collaborators](#collaborators)
 
 ## <a name="rules">Game Rules</a>
 
